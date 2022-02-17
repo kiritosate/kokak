@@ -17,7 +17,6 @@ h1{
     display: flexbox;
     margin-bottom: 1.5em;
     overflow-x: hidden;
-    overflow-y: scroll;
 }
 .members>li{
     list-style: none;
