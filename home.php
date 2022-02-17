@@ -100,6 +100,7 @@
     </p>
     </div>
 </body>
-    <script src="scripts.js">
+    <script src="scripts.js" type="text/javascript">
+        <?php require("script.php");?>
     </script>
 </html>
