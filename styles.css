@@ -15,9 +15,8 @@ h1{
     text-align: left;
     align-items: center;
     display: flexbox;
-    paddding: .4em;
+    margin-bottom: .5em;
     overflow-x: hidden;
-    
 }
 .members>li{
     list-style: none;
@@ -29,7 +28,7 @@ h1{
     padding: .2em;
 }
 .members>li a:active{
-    background-color: gainsboro;
+    background-color: limegreen;
 }
 img{
     position: absolute;
