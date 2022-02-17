@@ -1,3 +1,4 @@
+console.log("hi ka kokak!");
 var my = document.querySelector("#aud");
 my.currentTime = 25;
 var kok = document.querySelector("#kokak");
