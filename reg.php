@@ -8,7 +8,7 @@
             $query = "INSERT into `member` (username, link) VALUES ('$username', '$link')";
 
             $result = mysqli_query($conn, $query);
-            header("Location: home.php");
+            header("Location: index.php");
         }
     }
 ?>
