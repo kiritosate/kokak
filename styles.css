@@ -15,8 +15,9 @@ h1{
     text-align: left;
     align-items: center;
     display: flexbox;
-    margin-bottom: 1.5em;
+    paddding: .4em;
     overflow-x: hidden;
+    
 }
 .members>li{
     list-style: none;
