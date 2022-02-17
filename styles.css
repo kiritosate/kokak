@@ -20,11 +20,14 @@ h1{
 }
 .members>li{
     list-style: none;
-    padding: .5em;
 }
-.members>li a{
+.members>lia{
     text-decoration: none;
     color:black;
+    padding: .5em;
+}
+.members>li a:active{
+    background-color: gainsboro;
 }
 img{
     position: absolute;
